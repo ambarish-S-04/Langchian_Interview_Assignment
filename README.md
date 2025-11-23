@@ -136,9 +136,6 @@ This will return structured information about the character in JSON format, incl
    - If you get errors about missing vector store, run `compute-embeddings` first
    - Delete the `vectorstore/` directory and recompute embeddings if needed
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
